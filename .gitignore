@@ -2,6 +2,12 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=java
 
 ### Java ###
+/bin/
+.settings/
+.classpath
+.project
+
+
 # Compiled class file
 *.class
 
